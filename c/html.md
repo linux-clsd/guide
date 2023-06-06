@@ -23,6 +23,4 @@ En este manual, te embarcarás en un emocionante viaje para aprender los concept
 
 ## Sintaxis
 ### Doctype
-```
-<!DOCTYPE html>
-```
+<script src="https://gist.github.com/linux-clsd/d518c2723a327e1a3bcf56217e437107.js"></script>
