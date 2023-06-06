@@ -1,1 +1,3 @@
 # JavaScript  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Texto alternativo" style="width:20px;height:20px;">
+
+1. [Introducción]
