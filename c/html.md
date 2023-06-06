@@ -27,3 +27,5 @@ En este manual, te embarcarás en un emocionante viaje para aprender los concept
 <!DOCTYPE html>
 ```
 
+```
+print("hola mundo")
